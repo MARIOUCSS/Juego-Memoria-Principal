@@ -84,7 +84,9 @@ function destapar(id) {
     }
   }
 }
-//Prueba 
+//Prueba de
+
+
 
 
 
